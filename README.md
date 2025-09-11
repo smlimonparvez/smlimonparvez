@@ -125,13 +125,14 @@ const limonParvez = {
 </td>
 <td width="50%">
 
-### 🚀 More Projects Coming Soon...
+### 🚀 More Amazing Projects...
 ```javascript
-const nextProject = {
-  name: "AI-Powered Analytics Dashboard",
-  status: "In Development",
-  excitement: "💯",
-  eta: "Soon™"
+const upcomingProjects = {
+  ecommerce: "Next.js E-commerce Platform",
+  dashboard: "React Admin Dashboard",
+  api: "RESTful API with Node.js",
+  status: "Coming Soon...",
+  excitement: "💯"
 };
 ```
 
