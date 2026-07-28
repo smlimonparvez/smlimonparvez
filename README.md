@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=200&section=header&text=S%20M%20Limon%20Parvez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20Specialist&descSize=20&descAlignY=55" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0066cc&height=200&section=header&text=S%20M%20Limon%20Parvez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20Specialist&descSize=20&descAlignY=55" width="100%">
 </div>
 
 <div align="center">
@@ -187,6 +187,6 @@ const upcomingProjects = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0066cc&height=100&section=footer" width="100%">
 
 </div>
