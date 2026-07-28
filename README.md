@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Limon%20Parvez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descSize=20&descAlignY=55" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=200&section=header&text=S%20M%20Limon%20Parvez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20Specialist&descSize=20&descAlignY=55" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next+%26+Node.js+Expert;Building+Amazing+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Next+%26+Node.js+Expert;Building+Amazing+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -60,6 +60,8 @@ const limonParvez = {
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -71,6 +73,9 @@ const limonParvez = {
 ### 🛠️ Development Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -114,31 +119,31 @@ const limonParvez = {
 <tr>
 <td width="50%">
 
-### 🏢 Building Management System
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=smlimonparvez&repo=building-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff)](https://github.com/smlimonparvez/your-repo)
+### MediStore - Healthcare E-Commerce
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=smlimonparvez&repo=medistore&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff)](https://github.com/smlimonparvez/medi-store-front-end-extended)
 
-**Tech Stack:** React • Node.js • MongoDB • Stripe  
+**Tech Stack:** Next.js • Node.js • Express.js • PostgreSQL • Stripe  
 **Features:** Admin Dashboard, Payment Integration, Real-time Updates
 
 </td>
 <td width="50%">
 
-### 🪞 Custom Mirror WooCommerce
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=smlimonparvez&repo=mirror-woocommerce&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff)](https://github.com/smlimonparvez/your-repo)
+### Vehicle Rental Platform
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=smlimonparvez&repo=vehicle-rental&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff)](https://github.com/smlimonparvez/vehicle-rental-system-frontend)
 
-**Tech Stack:** WordPress • WooCommerce • PHP • JS  
-**Features:** Dynamic Pricing, Custom Calculator, E-commerce Integration
+**Tech Stack:** Next.js • Node.js • Express.js • PostgreSQL 
+**Features:** Dynamic Pricing, Real-time Availability, Admin Dashboard
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎨 Portfolio Website
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=smlimonparvez&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff)](https://github.com/smlimonparvez/your-portfolio)
+### SpotSync - Event Management
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=smlimonparvez&repo=spotsync&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff)](https://github.com/smlimonparvez/spotsync-backend)
 
-**Tech Stack:** React • Tailwind • Framer Motion  
-**Features:** Responsive Design, Smooth Animations, Modern UI
+**Tech Stack:** Go • PostgreSQL • JWT   
+**Features:** Real-time Sync, Multi-device Support, Analytics Dashboard
 
 </td>
 <td width="50%">
@@ -146,8 +151,8 @@ const limonParvez = {
 ### 🚀 More Amazing Projects...
 ```javascript
 const upcomingProjects = {
-  ecommerce: "Next.js E-commerce Platform",
-  dashboard: "React Admin Dashboard",
+  ecommerce: "Next.js E-Ticketing Platform",
+  dashboard: "Next Admin Dashboard",
   api: "RESTful API with Node.js",
   status: "Coming Soon...",
   excitement: "💯"
@@ -182,6 +187,6 @@ const upcomingProjects = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=100&section=footer" width="100%">
 
 </div>
