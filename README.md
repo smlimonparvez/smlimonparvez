@@ -71,19 +71,19 @@ const limonParvez = {
     <td align="center"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /></td>
-    <td align="center"></td>
   </tr>
 </table>
 
@@ -108,7 +108,7 @@ const limonParvez = {
     <td align="center"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Supertest-00C7B7?style=for-the-badge&logo=supertest&logoColor=white" /></td>
-    <td align="center"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
   </tr>
 </table>
 
@@ -116,12 +116,12 @@ const limonParvez = {
 
 ## 📊 GitHub Analytics
 
-<table border="0" align="center">
+<!-- <table border="0" align="center">
   <tr>
     <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=smlimonparvez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&cache_seconds=1800" /></td>
     <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlimonparvez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&cache_seconds=1800" /></td>
   </tr>
-</table>
+</table> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=smlimonparvez&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
@@ -135,9 +135,9 @@ const limonParvez = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smlimonparvez&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smlimonparvez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ---
 
