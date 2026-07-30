@@ -124,7 +124,8 @@ const limonParvez = {
 </table> -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=smlimonparvez&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=smlimonparvez&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=smlimonparvez&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </div>
 
 ---
